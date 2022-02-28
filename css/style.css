@@ -1,19 +1,24 @@
+body{
+    margin: 0 10%;
+}
 header{
     position: relative;
     background-color: #4ea0ff;
-    background-image:url('../img/pattern.png');
+    background-image: url('../img/pattern.png');
     background-repeat: repeat;
-    height: 176px;
+    height: 113px;
+    background-size: 40%;
 }
 .logo{
-    height: 60px;
+    height: 57px;
     position: absolute;
     bottom: 0;
     margin-left: 12px;
-    margin-bottom: 15px;
+    margin-bottom: 8px;
 }
 .titolo{
     font-size: 45px;
+    font-weight: bold;
 }
 .autore{
     color: #949494;
