@@ -16,11 +16,33 @@ header{
     color: lightgrey;
 }
 a:link, a:visited{
-    color: blue;
+    color: #55bdea;
     
 }
 .lorem{
     background-color: yellow;
+}
+ul{
+    padding-left: 13px;
+}
+table{
+    width: 100%;
+}
+thead{
+    background-color: #20a9e5;
+    color: white;
+}
+.azzurro{
+    background-color:#b1e5f2 ;
+}
+.clm1 {
+    width: 25%;
+}
+.clm2{
+    width: 50%;
+}
+td{
+    text-align: center;
 }
 
 
