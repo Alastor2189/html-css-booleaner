@@ -1,0 +1,16 @@
+header{
+    position: relative;
+    background-color: #4ea0ff;
+    background-image:url('../img/pattern.png');
+    background-repeat: repeat;
+    height: 176px;
+}
+.logo{
+    height: 60px;
+    position: absolute;
+    bottom: 0;
+    margin-left: 12px;
+    margin-bottom: 15px;
+}
+
+
