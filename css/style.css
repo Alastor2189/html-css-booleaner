@@ -1,5 +1,4 @@
 body{
-    margin: 0 10%;
 }
 header{
     position: relative;
@@ -13,8 +12,12 @@ header{
     height: 57px;
     position: absolute;
     bottom: 0;
-    margin-left: 12px;
+    margin-left: 14%;
     margin-bottom: 8px;
+}
+
+main{
+    margin: 0 14%;
 }
 .titolo{
     font-size: 45px;
@@ -50,6 +53,10 @@ thead{
 }
 .clm2{
     width: 50%;
+}
+
+footer{
+    margin: 0 14%;
 }
 
 .interest{
