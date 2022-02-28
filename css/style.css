@@ -12,5 +12,17 @@ header{
     margin-left: 12px;
     margin-bottom: 15px;
 }
+.autore{
+    color: lightgrey;
+}
+a:link, a:visited{
+    color: blue;
+    
+}
+.lorem{
+    background-color: yellow;
+}
+
+
 
 
